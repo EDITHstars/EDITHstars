@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDITHstars&layout=compact&theme=tokyonight)        
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={EDITHstars}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDITHstars&layout=compact)    
      
 
     
